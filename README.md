@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <img align="left" alt="Think" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 <img align="center" alt="coding" width="300" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/1a/1a1925b1de116058e74cecebbce92eb6_w200.gif">
+<img align="right" alt="coding" width="280" src="https://i.gifer.com/origin/1a/1a1925b1de116058e74cecebbce92eb6_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzazain110&label=Profile%20views&color=0e75b6&style=flat" alt="mirzazain110" /> </p>
 
