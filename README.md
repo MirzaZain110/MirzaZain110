@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain ul Abdin</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="coding" width="500" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align="right" alt="coding" width="350" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzazain110&label=Profile%20views&color=0e75b6&style=flat" alt="mirzazain110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzazain110" alt="mirzazain110" /></a> </p>
